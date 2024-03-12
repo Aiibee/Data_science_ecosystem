@@ -1,2 +1,2 @@
 # Data_science_ecosystem
-# This is the Jupyter Notebook Lab Assiignment
+# This is the Jupyter Notebook Lab Assignment
